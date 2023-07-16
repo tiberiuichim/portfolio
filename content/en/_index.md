@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Fresco Media"
 date: 2023-06-21T15:34:45+03:00
 
 description: "The last theme you'll ever need. Maybe."
